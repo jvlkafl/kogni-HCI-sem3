@@ -209,7 +209,7 @@ Działanie dotyczy tu kliknięcia na przycisk — onclick.
 </html>
 ```
 
-##Przydatne linki:
+## Przydatne linki:
 Kurs JavaScript: http://www.w3schools.com/js w tym:
 
 Obiekty i ich metody: http://www.w3schools.com/jsref
