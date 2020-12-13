@@ -64,6 +64,15 @@ Proponowany temat eseju dotyczy możliwych problemów i korzyści urządzenia do
 
 Konferencja Neuralinku 2020: https://www.youtube.com/watch?v=DVvmgjBL74w (Skrót: https://www.youtube.com/watch?v=CLUWDLKAF1M)
 
+#### Strona formalna eseju
+* Objętość: mniej więcej 2-3 strony razem z bibliografią (koniecznie APA)
+* Czcionka 11-12, szeryfowa (bezwzględnie nie comic sans :)
+* Bez abstraktu
+* Na samym początku pracy: temat, imię oraz nazwisko
+* Proszę przesłać plik pdf
+* Polecam latexa
+
+
 ### Kryteria oceniania
 
 | Ocena | L. punktów |
