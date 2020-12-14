@@ -69,7 +69,7 @@ Konferencja Neuralinku 2020: https://www.youtube.com/watch?v=DVvmgjBL74w (Skrót
 * Czcionka 11-12, szeryfowa (bezwzględnie nie comic sans :)
 * Bez abstraktu
 * Na samym początku pracy: temat, imię oraz nazwisko
-* Proszę przesłać plik pdf
+* Proszę przesłać plik pdf na maila z informacją [KCK esej]
 * Polecam latexa
 
 
