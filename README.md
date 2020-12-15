@@ -71,6 +71,7 @@ Konferencja Neuralinku 2020: https://www.youtube.com/watch?v=DVvmgjBL74w (Skrót
 * Na samym początku pracy: temat, imię oraz nazwisko
 * Proszę przesłać plik pdf na maila z informacją [KCK esej]
 * Polecam latexa
+* Przynajmniej jedno odwołanie do publikacji naukowej
 
 
 ### Kryteria oceniania
