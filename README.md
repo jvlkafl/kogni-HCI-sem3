@@ -72,7 +72,9 @@ Konferencja Neuralinku 2020: https://www.youtube.com/watch?v=DVvmgjBL74w (Skrót
 * Proszę przesłać plik pdf na maila z informacją [KCK esej]
 * Polecam latexa
 * Przynajmniej jedno odwołanie do publikacji naukowej
+* Praca musi zawierać spis literatury *wykorzystanej* w tekście.
 
+Na ocenę eseju będzie składać się: spójność argumentacji, zgodność treści z tematem, wykorzystanie właściwych źródeł, poprawność językowa, spełnienie kryteriów formalnych. 
 
 ### Kryteria oceniania
 
