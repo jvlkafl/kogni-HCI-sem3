@@ -292,5 +292,6 @@ Na przykład dla `<form action="/action_page.php">` dane zostaną wysłane do po
 
 ## Pomoce naukowe
 Samouczek: http://www.w3schools.com/html
+
 Lista i opis znaczników HTML:
 http://www.w3schools.com/tags/
