@@ -41,7 +41,7 @@ Znacznik `<p>` oznacza, że następująca po tym znaczniku treść - aż do znac
 ### Szablon prostej strony internetowej
 Niestety samo oznaczenie znacznikami fragmentu tekstu i zapisanie go jako dokument o rozszerzeniu HTML nie czyni z niego poprawnie napisanej strony internetowej. Poza informacjami dotyczącymi struktury przekazanej treści należy podać jeszcze dodatkowe informacje o wersji języka HTML, którą stosujemy, kodowaniu znaków, jakiego używamy itp...
 
-UWAGA: należy pamiętać, że edytor, w którym piszemy kod strony musi mieć to samo kodowanie, co strona (UTF-8 w naszym przypadku; patrz: <meta charset="UTF-8">)
+UWAGA: należy pamiętać, że edytor, w którym piszemy kod strony musi mieć to samo kodowanie, co strona (UTF-8 w naszym przypadku; patrz: `<meta charset="UTF-8">`)
 
 A oto kompletny i poprawny (składniowo) dokument HTML.
 ```
