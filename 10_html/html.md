@@ -110,7 +110,7 @@ W tej części wpisujemy treść dokumentu.
 
 - Pogrubienie: `<strong>coś ważnego</strong>` (również występuje znacznik `<b>`)
 
-- Kursywa: `<i>coś charakterystycznego</em>`
+- Kursywa: `<em>coś charakterystycznego</em>`
 
 - Hiperłącze: `<a href="hiperłącze"> Wyświetlany tekst </a>`
 
