@@ -72,7 +72,7 @@ Wcięcia widoczne w powyższym kodzie są także ważne: czynią one kod przejrz
 Skopiujmy powyższy kod do notatnika lub Atoma. Zapiszmy plik pod nazwą index.html i otwórzmy plik przy pomocy przeglądarki.
 
 ### Struktura
-Cały dokument oznaczony jest znacznikiem <html>, wewnątrz tego znacznika znajduje się znacznik <head> zawierający różne informacje o treści strony internetowej, następnie jest znacznik <body> w którym umieszczamy ciało (treść) dokumentu. Na ogół znaczniki mają strukturę określającą "zasięg". Działa to w ten sposób, że oprócz znacznika otwierającego (np. <html>), należy podać znacznik zamykający (w tym przypadku - </html>):
+Cały dokument oznaczony jest znacznikiem <html>, wewnątrz tego znacznika znajduje się znacznik <head> zawierający różne informacje o treści strony internetowej, następnie jest znacznik <body> w którym umieszczamy ciało (treść) dokumentu. Na ogół znaczniki mają strukturę określającą "zasięg". Działa to w ten sposób, że oprócz znacznika otwierającego (np. <html>), należy podać znacznik zamykający (w tym przypadku - `</html>`):
 
 ```
 <html>
