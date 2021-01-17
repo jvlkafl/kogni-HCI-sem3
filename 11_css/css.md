@@ -2,7 +2,7 @@
 
 CSS (Cascading Style Sheets) - Kaskadowe Arkusze Stylów - tworzony i rozwijany od 1994 roku język służący do programowania wyglądu stron HTML.
 
-Zanim stworzono CSS do opisu wyglądu strony używano specjalnych znaczników (np. <font size="3" face="arial"> , <center>) albo atrybutów (np. color="green"). Programowanie wyglądu strony przy użyciu tych znaczników było:
+Zanim stworzono CSS do opisu wyglądu strony używano specjalnych znaczników (np. `<font size="3" face="arial">` , `<center>`) albo atrybutów (np. color="green"). Programowanie wyglądu strony przy użyciu tych znaczników było:
 
 1. uciążliwe dla dużych stron (poza tym zwiększało ich rozmiar);
 2. zaciemniało strukturę treści dokumentu. Poza tym w przypadku, gdy trzeba było zmienić wygląd strony należało przeglądać i zmieniać wszystkie pliki `*.html`, które tą stronę tworzyły.
