@@ -3,9 +3,9 @@
 Stwórz stronę internetową na dowolny temat przy pomocy HTML-a oraz CSS-a.
 
 Treść powinna zawierać przynajmniej po jednym elemencie HTML poznanym na zajęciach:
-- podstawowe tagi (<h>, <p>, <br>, itd.)
+- podstawowe tagi (`<h>, <p>, <br>`, itd.)
 - tabelę
-- listę (<ol> lub <ul>)
+- listę (`<ol> lub <ul>`)
 - link
 - formularz
 - grafikę
