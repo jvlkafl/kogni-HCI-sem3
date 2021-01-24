@@ -155,6 +155,35 @@ Działanie dotyczy tu kliknięcia na przycisk — onclick.
 /* Komentarze /* nie mogą być zagnieżdżone, wtedy otrzymamy: */ Syntax error */
 
 ```
+
+###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+
+Przekształć poniższy kod, tak aby po kliknięciu w przycisk zmieniał obrazek kota na inny. Będzie potrzebna zmiana atrybutu src obrazka. 
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script>
+      function ZmienianieKota(){
+        kod;
+      }
+    </script>
+  </head>
+  <body>
+
+  <h2>Obrazek kota</h2>
+
+
+  <img id="kot" src="kot.jpg" style="width:200px"><br>
+
+  <button onclick='ZmienianieKota()'>Zmień kota</button>
+
+  </body>
+</html>
+
+```
+
 ## Przykładowe skrypty
 
 - Zliczanie kliknięć na określonym elemencie graficznym. Przydatne: onclick="…", document.getElementById("id").
