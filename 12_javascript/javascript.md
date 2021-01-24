@@ -16,12 +16,13 @@ Skrypty umieszczamy w dokumencie HTML w części body i/lub head, przy czym defi
 ```
 <html>
     <head>
+      <meta charset="utf-8">
     </head>
     <body>
 
-    <script>
-        document.write("Mój pierwszy skrypt");
-    </script>
+      <script>
+          document.write("Mój pierwszy skrypt");
+      </script>
 
     </body>
 </html>
@@ -29,6 +30,7 @@ Skrypty umieszczamy w dokumencie HTML w części body i/lub head, przy czym defi
 ```
 <html>
     <head>
+      <meta charset="utf-8">
 
     <script>
         document.write("<title>A tytuł jego "+(11*4)+"</title>");
@@ -49,6 +51,34 @@ Zmienne deklarujemy przy pomocy wyrażenia var, np.:
 var x;
 var i = 0;
 ```
+
+###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+
+Stwórz zmienną typu string z nazwą obecnej pory roku.
+
+Korzystając z metody `getElementById()` zmień poniższy przykład HTML, tak aby posiadał informacje o obecnej porze roku:
+
+```
+document.getElementById("id znacznika").innerHTML = "string";
+```
+
+Przykład:
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+
+    <p> Obecna pora roku to <span id='pora'> xxx </span>. </p>
+
+  </body>
+</html>
+```
+
+
+## Funkcje
 
 Funkcje definiujemy w sposób następujący:
 
