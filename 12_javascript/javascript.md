@@ -52,7 +52,7 @@ var x;
 var i = 0;
 ```
 
-###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+###   Zadanie 1 <img src="../images/pencil.png" width="20" align="left">
 
 Stwórz zmienną typu string z nazwą obecnej pory roku.
 
@@ -117,6 +117,16 @@ Przykład wykorzystania metody (random() obiektu typu Math):
 document.write(Math.random());
 ```
 
+Kod losujący liczbę od 0 do 9:
+```
+Math.floor((Math.random() * 10)
+```
+
+###   Zadanie 2 <img src="../images/pencil.png" width="20" align="left">
+
+Stwórz 5-elementową listę stringów. Korzystając z funcji random, wyświetl losowy element listy.
+
+
 ## Korzystanie z języka
 
 W JS standardowo wykorzystujemy wyrażenia, które znamy już z zajęć z programowania, np: if if-else, pętle: for, while, operatory: +, -, etc.
@@ -156,9 +166,9 @@ Działanie dotyczy tu kliknięcia na przycisk — onclick.
 
 ```
 
-###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+###   Zadanie 3 <img src="../images/pencil.png" width="20" align="left">
 
-Przekształć poniższy kod, tak aby po kliknięciu w przycisk zmieniał obrazek kota na inny. Będzie potrzebna zmiana atrybutu src obrazka. 
+Przekształć poniższy kod, tak aby po kliknięciu w przycisk zmieniał obrazek kota na inny. Będzie potrzebna zmiana atrybutu src obrazka.
 ```
 <!DOCTYPE html>
 <html>
