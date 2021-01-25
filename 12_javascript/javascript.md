@@ -119,7 +119,7 @@ document.write(Math.random());
 
 Kod losujący liczbę od 0 do 9:
 ```
-Math.floor((Math.random() * 10)
+Math.floor(Math.random() * 10)
 ```
 
 ###   Zadanie 2 <img src="../images/pencil.png" width="20" align="left">
