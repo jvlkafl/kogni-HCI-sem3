@@ -1,6 +1,8 @@
+# Dolina niesamowitości
+
 <img src="../images/UV_schema.png" width="500" alin="center"><br>
 
-# Wyjaśnienia Doliny Niesamowitości
+# Wyjaśnienia doliny niesamowitości
 
 ## Threat avoidance (unikanie zagrożenia)
 
