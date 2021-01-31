@@ -1,4 +1,4 @@
-<img src="../images/UV_schema.pngwidth="400">
+<img src="../images/UV_schema.png" width="400">
 
 # Wyjaśnienia Doliny Niesamowitości
 
