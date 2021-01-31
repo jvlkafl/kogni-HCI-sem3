@@ -49,7 +49,7 @@ inborn or can be induced by learning (Harnad, 2003).
 ## Perceptual mismatch (niedopasowanie percepcyjne)
 
 Perceptual mismatch attributes eerie sensation to inconsistency in humanlikeness of
-characters visual cues (e.g., artificial eyes on a humanlike face) or presence of atypical features in character (e.g., excessively enlarged eyes) (Pollick, 2009; K¨atsyri et al., 2015; Seyama
+characters visual cues (e.g., artificial eyes on a humanlike face) or presence of atypical features in character (e.g., excessively enlarged eyes) (Pollick, 2009; Kätsyri et al., 2015; Seyama
 and Nagayama, 2007).
 
 <img src="../images/pencil.png" width="20" align="left"> katsyri2015.pdf – s. 7
