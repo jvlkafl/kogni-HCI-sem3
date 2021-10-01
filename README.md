@@ -41,20 +41,21 @@ Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w do
 ### Terminarz zajęć
 | lp. | Temat | Zadanie | Liczba punktów |						
 | --- |	------- | ------- | ----------- |					
-|1.|	Jupyter notebook i przypomnienie pythona	|	Praca domowa	|	1	|
-|2.|	Numpy i Matplotlib	|	Praca domowa	|	2	|
+|1.|	Jupyter notebook i przypomnienie pythona	|	-	|	-	|
+|2.|	Numpy i Matplotlib	|	Praca domowa	|	3	|
 |3.|	Analiza sygnałów 1	|	Arkusz z zajęć	|	2	|
 |4.|	Analiza sygnałów 2	|	Praca domowa	|	2	|
 |5.|	Wykrywanie sygnału EEG 	|	Arkusz z zajęć	|	2	|
 |6.|	Potencjały wywołane	|	Arkusz z zajęć	|	2	|
-|7.|	Spotkanie dotyczące eseju	|	-	|	-	|
-|8.|	Liczby binarne 	|	Praca domowa	|	2	|
-|9.|	Bramki logiczne	|	Praca domowa	|	2	|
-|10.|	HTML	|	-	|	-	|
-|11.|	CSS	|	Praca domowa	|	3	|
-|12.|	Javascript	|	Praca domowa	|	2	|
-|13.|	Dodatkowe zajęcia	|	-	|	-	|
-|   |	 	| Esej | 10 |
+|7.| Wykrywanie mrugnięć | - | - |
+|8.|	Praca nad projektem	|	-	|	-	|
+|9.|	Liczby binarne 	|	Praca domowa	|	2	|
+|10.|	Bramki logiczne	|	Praca domowa	|	2	|
+|11.|	HTML	|	-	|	-	|
+|12.|	CSS	|	Praca domowa	|	3	|
+|13.|	Javascript	|	Praca domowa	|	2	|
+|14.|	VR	|	-	|	-	|
+|   |	 	| Projekt | 10 |
 |  	|	 	| **Suma** | **30** |
 
 
