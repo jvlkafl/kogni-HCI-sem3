@@ -60,7 +60,7 @@ Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w do
 
 
 ### Projekt
-Zadaniem projektu jest stworzenie prostego interfejsu typu "speller" opartego na mruganiu. 
+Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opartego na mruganiu. Zadanie będzie składać się z przygotowania kodu wyświatlającego litery alfabetu, zebrania sygnału, przeanalizowania zebranych danych (odszyfrowanie wybranych liter) oraz przygotowania raportu. 
 
 ### Punktacja projektu
 * Rozbudowanie interfejsu graficznego -- 2pkt
@@ -68,6 +68,19 @@ Zadaniem projektu jest stworzenie prostego interfejsu typu "speller" opartego na
 * Synchronizacja zadań -- 1pkt
 * Poprawność analizy i wyników -- 3pkt
 * Formalna strona raportu -- 2pkt
+
+### Kryteria oceniania
+
+| Ocena | L. punktów |
+|------------------------|:---------:|
+| bardzo dobry (5,0)     | ⩾ 27    |
+| dobry plus (4,5)       | 24 - 26,5 |
+| dobry (4,0)            |  21 - 23,5  |
+| dostateczny plus (3,5) | 19,5 - 20,5 |
+| dostateczny (3,0)      | 18 - 19 |
+| niedostateczny (2,0)   | < 18   |
+
+
 
 ### Temat eseju
 
@@ -86,17 +99,6 @@ Konferencja Neuralinku 2020: https://www.youtube.com/watch?v=DVvmgjBL74w (Skrót
 * Praca musi zawierać spis literatury *wykorzystanej* w tekście.
 
 Na ocenę eseju będzie składać się: spójność argumentacji, zgodność treści z tematem, wykorzystanie właściwych źródeł, poprawność językowa, spełnienie kryteriów formalnych. 
-
-### Kryteria oceniania
-
-| Ocena | L. punktów |
-|------------------------|:---------:|
-| bardzo dobry (5,0)     | ⩾ 27    |
-| dobry plus (4,5)       | 24 - 26,5 |
-| dobry (4,0)            |  21 - 23,5  |
-| dostateczny plus (3,5) | 19,5 - 20,5 |
-| dostateczny (3,0)      | 18 - 19 |
-| niedostateczny (2,0)   | < 18   |
 
 
 
