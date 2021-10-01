@@ -48,7 +48,7 @@ Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w do
 |5.|	Wykrywanie sygnału EEG 	|	Arkusz z zajęć	|	2	|
 |6.|	Potencjały wywołane	|	Arkusz z zajęć	|	2	|
 |7.| Wykrywanie mrugnięć | - | - |
-|8.|	Praca nad projektem	|	-	|	-	|
+|8.|	Zbieranie danych do projektu	|	-	|	-	|
 |9.|	Liczby binarne 	|	Praca domowa	|	2	|
 |10.|	Bramki logiczne	|	Praca domowa	|	2	|
 |11.|	HTML	|	-	|	-	|
