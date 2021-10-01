@@ -8,7 +8,7 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 ### :e-mail: Kontakt do prowadzących
 
  * dr inż. Marcin Jukiewicz (koordynator) marcin.jukiewicz[at]amu.edu.pl
- * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl, dyżur czwartek 13:00-14:00, pokój 110
+ * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl, dyżur czwartek 13:00-14:00, pokój 110 (lub online)
 
 ### Instalacja Jupyter notebook:
 W konsoli:
@@ -58,6 +58,16 @@ Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w do
 |   |	 	| Projekt | 10 |
 |  	|	 	| **Suma** | **30** |
 
+
+### Projekt
+Zadaniem projektu jest stworzenie prostego interfejsu typu "speller" opartego na mruganiu. 
+
+### Punktacja projektu
+* Rozbudowanie interfejsu graficznego -- 2pkt
+* Rozbudowanie i poprawność kodu do wykrywania mrugnięć -- 2pkt
+* Synchronizacja zadań -- 1pkt
+* Poprawność analizy i wyników -- 3pkt
+* Formalna strona raportu -- 2pkt
 
 ### Temat eseju
 
