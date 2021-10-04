@@ -60,16 +60,16 @@ Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w do
 
 
 ### Projekt
-Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opartego na mruganiu. Zadanie będzie składać się z przygotowania kodu wyświatlającego litery alfabetu, zebrania sygnału, przeanalizowania zebranych danych (odszyfrowanie wybranych liter) oraz przygotowania raportu. 
+Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opartego na mruganiu. W ramach projektu wymagane jest przygotowanie kodu wyświatlającego litery alfabetu, zebranie sygnału, przeanalizowanie zebranych danych (odszyfrowanie wybranych liter) oraz przygotowania raportu. 
 
 ### Punktacja projektu
-* Rozbudowanie interfejsu graficznego -- 2pkt
-* Rozbudowanie i poprawność kodu do wykrywania mrugnięć -- 2pkt
+* Interfejs graficzny -- 2pkt
+* Kod do wykrywania mrugnięć -- 2pkt
 * Synchronizacja zadań -- 1pkt
 * Poprawność analizy i wyników -- 3pkt
 * Formalna strona raportu -- 2pkt
 
-### Kryteria oceniania
+### Kryteria oceny z przedmiotu
 
 | Ocena | L. punktów |
 |------------------------|:---------:|
@@ -81,12 +81,12 @@ Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opa
 | niedostateczny (2,0)   | < 18   |
 
 
-
+<details>
+  <summary>W przypadku przejścia na tryb zdalny przed rozpoczęciem projektu</summary>
+ 
 ### Temat eseju
 
-Proponowany temat eseju dotyczy możliwych problemów i korzyści urządzenia do interfejsów mózg-komputer firmy Neuralink, ale może to być dowolny temat związany z komunikacją człowiek-komputer. Na indywidualne spotkanie (zajęcia 7) dotyczące konkretnego tematu eseju proszę przygotować zarys pomysłu w punktach. Termin oddania gotowych esejów to **17.01**. Objętość: 2-3 strony razem z bibliografią. Tekst powinien mieć formę tekstu naukowego - zawierać hipotezy lub pytania i argumentację, oraz odnośniki do prac naukowych (cytowanie APA).
-
-Konferencja Neuralinku 2020: https://www.youtube.com/watch?v=DVvmgjBL74w (Skrót: https://www.youtube.com/watch?v=CLUWDLKAF1M)
+Proponowany temat eseju dotyczy możliwych problemów i korzyści urządzenia do interfejsów mózg-komputer, ale może to być dowolny temat związany z komunikacją człowiek-komputer. Na indywidualne spotkanie (zajęcia 8) dotyczące konkretnego tematu eseju proszę przygotować zarys pomysłu w punktach. Objętość: 2-3 strony razem z bibliografią. Tekst powinien mieć formę tekstu naukowego - zawierać hipotezy lub pytania i argumentację, oraz odnośniki do prac naukowych (cytowanie APA).
 
 #### Strona formalna eseju
 * Objętość: mniej więcej 2-3 strony razem z bibliografią (koniecznie APA)
@@ -100,5 +100,5 @@ Konferencja Neuralinku 2020: https://www.youtube.com/watch?v=DVvmgjBL74w (Skrót
 
 Na ocenę eseju będzie składać się: spójność argumentacji, zgodność treści z tematem, wykorzystanie właściwych źródeł, poprawność językowa, spełnienie kryteriów formalnych. 
 
-
+</details>
 
