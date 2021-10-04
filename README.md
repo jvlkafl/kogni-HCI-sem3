@@ -81,8 +81,11 @@ Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opa
 | niedostateczny (2,0)   | < 18   |
 
 
+
 <details>
-  <summary>W przypadku przejścia na tryb zdalny przed rozpoczęciem projektu</summary>
+  <summary>*W przypadku przejścia na tryb zdalny przed rozpoczęciem projektu*</summary>
+ 
+ ## Esej zamiast projektu
  
 ### Temat eseju
 
