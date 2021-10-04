@@ -83,7 +83,7 @@ Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opa
 
 
 <details>
-  <summary>*W przypadku przejścia na tryb zdalny przed rozpoczęciem projektu*</summary>
+ <summary><i>W przypadku przejścia na tryb zdalny przed rozpoczęciem projektu</i></summary>
  
  ## Esej zamiast projektu
  
