@@ -34,8 +34,6 @@ Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w do
 
 
 
-
-
  **Uwaga** :office: Zgodnie z regulaminem studiów obowiązują dwie nieobecności, niezależnie od tego, czy są one usprawiedliwione, czy nie. :blue_book:
 
 ### Terminarz zajęć
@@ -57,6 +55,10 @@ Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w do
 |14.|	VR	|	-	|	-	|
 |   |	 	| Projekt | 10 |
 |  	|	 	| **Suma** | **30** |
+
+
+### Zadania domowe proszę wysyłać na adres mailowy *dawid.ratajczyk@amu.edu.pl*. Czas na wykonanie to tydzień. 
+
 
 
 ### Projekt
