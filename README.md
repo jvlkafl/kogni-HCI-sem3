@@ -83,6 +83,11 @@ Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opa
 | niedostateczny (2,0)   | < 18   |
 
 
+### Poradnik uzyskania maksymalnej liczby punktów z zadań 
+* Przeczytaj polecenie i wykonaj dokładnie to o co jesteś proszony/a
+* Ustrukturyzuj kod i odpowiedzi w zadaniach, aby jasne było co miałeś/aś na myśli
+* Pamiętaj o opisywaniu osi wykresów - jaka zmienna jest prezentowana oraz w jakich jednostkach
+* Podpisz się na arkuszu 
 
 <details>
  <summary><i>W przypadku przejścia na tryb zdalny przed rozpoczęciem projektu</i></summary>
