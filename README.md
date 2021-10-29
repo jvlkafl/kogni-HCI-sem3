@@ -89,6 +89,8 @@ Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opa
 * Pamiętaj o opisywaniu osi wykresów - jaka zmienna jest prezentowana oraz w jakich jednostkach
 * Podpisz się na arkuszu 
 
+
+
 <details>
  <summary><i>W przypadku przejścia na tryb zdalny przed rozpoczęciem projektu</i></summary>
  
