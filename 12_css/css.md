@@ -297,6 +297,7 @@ Rozmiary elementów blokowych opisywane są wysokością i szerokością (width 
 
 ## Znaczniki `<div>` i `<span>`
 Własności *block* i *inline*
+
 Przy okazji omawiania dwóch nowych znaczników warto wspomnieć o różnicy między elementami blokowymi (block) i inline:
 
 - Elementy blokowe "zabierają" całą dostępną szerokość (width) i domyślnie "korzystają" z końca linii (line break) przed i po własnym wystąpieniu
