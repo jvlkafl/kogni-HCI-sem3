@@ -106,6 +106,8 @@ Przykład wykorzystania właściwości (w tym przypadku length obiektu typu Arra
     moi_przyjaciele[0] = "Jan";
     moi_przyjaciele[1] = "Eustachy";
     moi_przyjaciele[2] = "Teofania";
+    
+    // var moi_przyjaciele = ["Jan", "Eustachy", "Teofania"];
 
     document.write("Tylu mam przyjaciół: " + moi_przyjaciele.length);
 </script>
@@ -124,7 +126,7 @@ Math.floor(Math.random() * 10)
 
 ###   Zadanie 2 <img src="../images/pencil.png" width="20" align="left">
 
-Stwórz 5-elementową listę stringów. Korzystając z funcji random, wyświetl losowy element listy.
+Stwórz 5-elementową listę stringów. Korzystając z funcji random, wyświetl losowy element listy w środku dokumentu.
 
 
 ## Korzystanie z języka
