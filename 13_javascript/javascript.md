@@ -196,6 +196,34 @@ Przekształć poniższy kod, tak aby po kliknięciu w przycisk zmieniał obrazek
 
 ```
 
+###   Zadanie 4 <img src="../images/pencil.png" width="20" align="left">
+
+Korzystając z pętli *for* wyświetl wszystkie elementy po kliknięciu w guzik. 
+
+```
+for (var i = 0; i < NAZWA_LISTY.length; i++) {
+}
+```
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script>
+        var lista = ["Pierwszy", "Drugi", "Trzeci", "Czwarty", "Piąty"];
+    </script>
+  </head>
+  <body>
+
+  <button onclick='ElementyListy()'>Pokaż elementy</button>
+
+  </body>
+</html>
+
+```
+
+
 ## Przykładowe skrypty
 
 - Zliczanie kliknięć na określonym elemencie graficznym. Przydatne: onclick="…", document.getElementById("id").
