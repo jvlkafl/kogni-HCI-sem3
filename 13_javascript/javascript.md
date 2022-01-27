@@ -140,9 +140,10 @@ Aby zwiększyć interaktywność naszych stron, posługujemy się możliwością
 ```
 <html>
     <head>
+    <meta charset="utf-8">
     <script>
          function pokaz() {
-             alert("Już pokazuje")
+             alert("Już pokazuje");
          }
     </script>
     </head>
