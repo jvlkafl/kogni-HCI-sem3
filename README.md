@@ -29,7 +29,7 @@ Kurs składa się z trzech zasadniczych części:
  3. Tworzenie stron internetowych
 
 
-Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w domu oraz na podstawie eseju dotyczącego interfejsów mózg komputer.
+Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w domu oraz na podstawie projektu dotyczącego interfejsów mózg komputer.
 
 
 
