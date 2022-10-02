@@ -8,7 +8,7 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 ### :e-mail: Kontakt do prowadzących
 
  * dr inż. Marcin Jukiewicz (koordynator) marcin.jukiewicz[at]amu.edu.pl
- * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl, dyżur czwartek 13:00-14:00, pokój 110 (lub online)
+ * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl, dyżur środa 9:00-10:00, pokój 110 (lub online)
 
 ### Instalacja Jupyter notebook:
 W konsoli:
