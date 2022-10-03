@@ -23,13 +23,13 @@ jupyter notebook
 
 ### :books: Z czego składa się kurs?
 
-Kurs składa się z trzech zasadniczych części:
+Kurs składa się z trzech części:
  1. Analiza biosygnałów
  2. Elementy Computer Science
  3. Tworzenie stron internetowych
 
 
-Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w domu oraz na podstawie projektu dotyczącego interfejsów mózg komputer.
+Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub w domu oraz na podstawie **projektu** dotyczącego interfejsów mózg komputer.
 
 
 
