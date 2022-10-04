@@ -37,24 +37,24 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
  **Uwaga** :office: Zgodnie z regulaminem studiów obowiązują dwie nieobecności, niezależnie od tego, czy są one usprawiedliwione, czy nie. :blue_book:
 
 ### Terminarz zajęć
-| lp. | Temat | Zadanie | Liczba punktów |						
-| --- |	------- | ------- | ----------- |					
-|1.|	Jupyter notebook i przypomnienie pythona	|	-	|	-	|
-|2.|	Numpy i Matplotlib	|	Praca domowa	|	3	|
-|3.|	Analiza sygnałów 1	|	Arkusz z zajęć	|	2	|
-|4.|	Analiza sygnałów 2	|	Praca domowa	|	2	|
-|5.|	Wykrywanie sygnału EEG 	|	Arkusz z zajęć	|	2	|
-|6.|	Potencjały wywołane	|	Arkusz z zajęć	|	2	|
-|7.| Wykrywanie mrugnięć | - | - |
-|8.|	Zbieranie danych do projektu	|	-	|	-	|
-|9.|	Liczby binarne 	|	Praca domowa	|	2	|
-|10.|	Bramki logiczne	|	Praca domowa	|	2	|
-|11.|	HTML	|	-	|	-	|
-|12.|	CSS	|	Praca domowa	|	3	|
-|13.|	Javascript	|	Praca domowa	|	2	|
-|14.|	VR	|	-	|	-	|
-|   |	 	| Projekt | 10 |
-|  	|	 	| **Suma** | **30** |
+| lp. | Temat | Data | Zadanie | Liczba punktów |						
+| --- |	------- | ----- | ------- | ----------- |					
+|1.|	Jupyter notebook i przypomnienie pythona | 6/11.10.22	|	-	|	-	|
+|2.|	Numpy i Matplotlib	| 13/18.10.22 |	Praca domowa	|	3	|
+|3.|	Analiza sygnałów 1	| 20/25.10.22 |	Arkusz z zajęć	|	2	|
+|4.|	Analiza sygnałów 2	| 27.10/8.11.22 |	Praca domowa	|	2	|
+|5.|	Wykrywanie sygnału EEG | 3/15.11.22	|	Arkusz z zajęć	|	2	|
+|6.|	Potencjały wywołane	| 10/22.11.22 |	Arkusz z zajęć	|	2	|
+|7.| Wykrywanie mrugnięć | 17/29.11.22 | - | - |
+|8.|	Zbieranie danych do projektu	| 24.11/6.12.22 |	-	|	-	|
+|9.|	Liczby binarne 	| 1/13.12.22 |	Praca domowa	|	2	|
+|10.|	Bramki logiczne	| 8/20.12.22 |	Praca domowa	|	2	|
+|11.|	HTML	| 15.12/3.01.23 |	-	|	-	|
+|12.|	CSS	| 5/10.01.23 |	Praca domowa	|	3	|
+|13.|	Javascript	| 12/17.01.23 |	Praca domowa	|	2	|
+|14.|	VR	| 19/24.01.23 |	-	|	-	|
+|   |	  |  	| Projekt | 10 |
+|  	|	  |  	| **Suma** | **30** |
 
 
 ### Zadania domowe proszę wysyłać na adres mailowy *dawid.ratajczyk@amu.edu.pl*. Czas na wykonanie to tydzień. 
