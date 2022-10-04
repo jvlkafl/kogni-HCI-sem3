@@ -51,8 +51,8 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |10.|	Bramki logiczne	| 8/20.12.22 |	Praca domowa	|	2	|
 |11.|	HTML	| 15.12/3.01.23 |	-	|	-	|
 |12.|	CSS	| 5/10.01.23 |	Praca domowa	|	3	|
-|13.|	Javascript	| 12/17.01.23 |	Praca domowa	|	2	|
-|14.|	VR	| 19/24.01.23 |	-	|	-	|
+|13.|	VR	| 12/17.01.23 |	Praca domowa	|	2	|
+|14.|	Dodatkowe	| 19/24.01.23 |	-	|	-	|
 |   |	  |  	| Projekt | 10 |
 |  	|	  |  	| **Suma** | **30** |
 
