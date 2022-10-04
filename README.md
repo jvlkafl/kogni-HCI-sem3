@@ -37,7 +37,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
  **Uwaga** :office: Zgodnie z regulaminem studiów obowiązują dwie nieobecności, niezależnie od tego, czy są one usprawiedliwione, czy nie. :blue_book:
 
 ### Terminarz zajęć
-| lp. | Temat |Data (czw/wto) | Zadanie | Liczba punktów |						
+| lp. | Temat | Data | Zadanie | Liczba punktów |						
 | --- |	------- | ----- | ------- | ----------- |					
 |1.|	Jupyter notebook i przypomnienie pythona | 6/11.10.22	|	-	|	-	|
 |2.|	Numpy i Matplotlib	| 13/18.10.22 |	Praca domowa	|	3	|
