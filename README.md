@@ -47,10 +47,10 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |6.|	Potencjały wywołane	| 10/22.11.22 |	Arkusz z zajęć	|	2	|
 |7.| Wykrywanie mrugnięć | 17/29.11.22 | - | - |
 |8.|	Zbieranie danych do projektu	| 24.11/6.12.22 |	-	|	-	|
-|9.|	Liczby binarne 	| 1/13.12.22 |	Praca domowa	|	2	|
-|10.|	Bramki logiczne	| 8/20.12.22 |	Praca domowa	|	2	|
-|11.|	HTML	| 15.12/3.01.23 |	-	|	-	|
-|12.|	CSS	| 5/10.01.23 |	Praca domowa	|	3	|
+|9.|	HTML 	| 1/13.12.22 |	-	|	-	|
+|10.|	CSS	| 8/20.12.22 |	Praca domowa	|	3	|
+|11.|	Liczby binarne	| 15.12/3.01.23 |	Praca domowa	|	2	|
+|12.|	Bramki logiczne	| 5/10.01.23 |	Praca domowa	|	2	|
 |13.|	VR	| 12/17.01.23 |	Praca domowa	|	2	|
 |14.|	Dodatkowe	| 19/24.01.23 |	-	|	-	|
 |   |	  |  	| Projekt | 10 |
