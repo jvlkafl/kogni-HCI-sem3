@@ -1,0 +1,24 @@
+p {
+    font-size: 20px;
+    font-family: Arial, Verdana, sans-serif;
+    color: black;
+    background-color: rgb(126, 126, 187);
+    text-align: right;
+    text-decoration: underline;
+}
+
+body {
+    background-color: lavender;
+    background-image: url(wallpaper.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1 {
+    color: blue;
+    text-align: justify; /*tekst justowany, mozna też wpisać: right albo left - wyrównanie do prawej/lewej*/
+    text-decoration: underline; /*inne wartości: none, line-through, ...*/
+    font-family: arial, verdana, sans-serif;
+    font-style: italic; /*moze byc też normal*/
+    font-size: 20px;
+}

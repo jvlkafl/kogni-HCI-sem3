@@ -1,0 +1,11 @@
+body {
+    background-image: url(cat-background.jpeg);
+}
+
+h1 {
+    position: sticky;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgba(171, 171, 232, 0.5);
+    
+}
