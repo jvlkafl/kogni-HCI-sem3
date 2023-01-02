@@ -1,11 +1,109 @@
 body {
     background-image: url(cat-background.jpeg);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
 }
 
 h1 {
     position: sticky;
+    top: 0;
     text-align:center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background: rgba(171, 171, 232, 0.5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgba(120, 149, 178, 0.75);
     
+}
+
+.main-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgba(232, 223, 202, 0.75);
+    padding: 10px;
+    margin-top: 20px;
+}
+.form{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgba(232, 223, 202, 0.75);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+a {
+    background-color: rgb(174, 189, 202);
+    padding: 10px;
+    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 0);
+    border-radius: 10px;
+}
+
+a:link {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+
+a:visited {
+    color: #000000;
+}
+
+
+a:hover {
+    background-color: rgba(174, 189, 202, 0.5);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+
+.grid { 
+    margin: 5%;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.grid img {
+    border: 1px;
+    max-width: 100%;
+}
+
+
+.meows{
+    width: 100%;
+    text-align: left;
+}
+.meows th{
+    border-bottom: 1px dashed black;
+}
+
+label {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 5px;
+}
+input[type=text]{
+    padding: 5px;
+    margin: 5px;
+}
+input[type=text]:focus {
+    border: 3px solid #555;
+}
+input[type=submit]{
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(174, 189, 202);
+    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 0);
+    border-radius: 10px;
+    font-weight: bold;
+}
+input[type=submit]:hover{
+    background-color: rgba(174, 189, 202, 0.5);
+    font-weight: lighter;
+    cursor: pointer;
 }
